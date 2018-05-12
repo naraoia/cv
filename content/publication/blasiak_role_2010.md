@@ -1,7 +1,9 @@
 +++
 title = "Role of Genetic Changes in the Pathogenesis of Keratoconus"
+date = "2010-01-01"
 authors = ["J. Blasiak","T. Poplawski","J. P. Szaflik","J. Szaflik"]
 publication_types = ["2"]
+publication = "_Okulistyka_"
 publication_short = ""
 abstract = "Keratoconus is one of the most common corneal dystrophies that leads to severe visual impairment. The incidence of keratoconus (KC) is 1 per 2000 in the general population. The keratoconic cornea assumes a conical shape as a result of non-inflammatory thinning of corneal stroma. It is a gradually progressive disease with an unknown cause, inducing corneal thinning, irregular astigmatism, myopia, and central or paracentral conical protrusion. Although most cases of keratoconus are sporadic, 5% to 10% of patients have a positive family history. In such cases, both autosomal dominant and recessive patterns of inheritance have been described. The suspected genetic heterogeneity and phenotypic variability of keratoconus have been hurdles to the identification of the genes for this condition. The main approaches to identify genes which may be involved in the pathogenesis of KC are studies on homo- and heterozygotic twins with KC and families with a higher frequency of KC occurrence. Such studies allowed to identify several chromosomal regions with a possible localization of potential KC gene(s), but there is not a consensus among result of different studies. The same concerns genes, which may play a major role in the KC pathogenesis. The VXS1 and SOD1 genes, mutations in which were reported in several cases, seem to be main genes-candidates for KC, but there are contradictory results concerning their role in the etiology of KC. In light of the results obtained so far, we can conclude that we are still far from identifying the genetic base underlying KC."
 image_preview = ""
