@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Tomasz Poplawski CV"
+title = "Tomasz Poplawski Academic CV"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,19 +51,19 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Tomasz Poplawski"
-  role = "Professor of University of Lodz"
+  role = "Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Lodz", url = "" } ]
+  organizations = [ { name = "Faculcty of Biology and Enviromental Protection, University of Lodz", url = "www.biol.uni.lodz.pl" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
+  email = "tomasz.poplawski@biol.uni.lodz.pl"
   address = "Pomorska 141/143 1 Room 57, Faculcty of Biology and Enviromental Protection, University of Lodz, Lodz, 90237, Poland"
   office_hours = "Thursday 12:00 to 14:00 or email for appointment"
   phone = "42 635 44 86"
