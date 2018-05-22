@@ -12,8 +12,8 @@ weight = 5
   interests = [
     "DNA computers",
     "Biological properties of Thio-sugars",
-    "DNA repair inhibitors"
-    "DNA damage response in Human Diseases"
+    "DNA repair inhibitors",
+    "DNA damage response in Human Diseases",
   ]
 
 # List your qualifications (such as academic degrees).
