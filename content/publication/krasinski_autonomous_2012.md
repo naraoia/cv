@@ -7,7 +7,7 @@ publication = "_Informatica (Slovenia)_"
 publication_short = ""
 image_preview = ""
 selected = false
-projects = ["dna-computer"]
+projects = [dna-computer]
 math = true
 highlight = true
 [header]
