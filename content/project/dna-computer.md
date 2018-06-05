@@ -36,8 +36,11 @@ math = false
     of its reaction.
     
 **These objectives were realized through:**
-1. construction of DNA library representing DNA molecules of DNA computer based on enhanced Shapiro automaton to many-state,
-2. laboratory verification of enhanced Shapiro automaton to 6 state,
-3. optimization of enhanced Shapiro automaton to many-state works by establishing of optimal reaction condition including various DNA molecule length,
-4. establishing the role of nondeterminism in 6-state DNA computer,
+
+ 1. construction of DNA library representing DNA molecules of DNA computer based on enhanced Shapiro automaton to many-state,
+ 2. laboratory verification of enhanced Shapiro automaton to 6 state,
+ 3. optimization of enhanced Shapiro automaton to many-state works by establishing of optimal reaction condition including various DNA molecule length,
+ 4. establishing the role of nondeterminism in 6-state DNA computer,
 theoretic and practical implementation of 9-state DNA computer based on Shapiro automaton
+
+
