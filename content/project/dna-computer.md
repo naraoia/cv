@@ -44,5 +44,5 @@ math = false
  3. optimization of enhanced Shapiro automaton to many-state works by establishing of optimal reaction condition including various DNA molecule length,
  4. establishing the role of nondeterminism in 6-state DNA computer,
 theoretic and practical implementation of 9-state DNA computer based on Shapiro automaton
-
+{: style="text-align: justify"}
 
